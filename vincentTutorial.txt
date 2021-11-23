@@ -1,0 +1,11 @@
+If you want to run the website, run this command in terminal:
+    cd Documents\ryanphan.github.io
+    npm start
+
+Kill website:
+    CTRL+C in your terminal
+
+Push/Update changes into github.com/ryanphan07 repository:
+    git add .
+    git commit -m "Another one"
+    git push origin master
