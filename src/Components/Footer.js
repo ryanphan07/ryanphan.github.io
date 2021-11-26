@@ -27,7 +27,7 @@ class Footer extends Component {
               </li>
               <li key="email">
                 <a
-                  href="mailto:vincentchau72@gmail.com"
+                  href="mailto:ryanphan007@yahoo.com"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -36,7 +36,7 @@ class Footer extends Component {
               </li>
             </ul>
             <ul className="credits">
-              <li> Designed by Vincent Chau</li>
+              <li> Designed by Ryan Phan  </li>
             </ul>
           </div>
           <div id="go-top">

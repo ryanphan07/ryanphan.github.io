@@ -37,8 +37,9 @@ class Header extends Component {
             <div class="slider-wrapper">
               <div class="slider">
                 <div class="slider-text1">High School Student</div>
-                <div class="slider-text2">Master Chess Player 2100 ELO</div>
-                <div class="slider-text3">Stanford Hopeful</div>
+                <div class="slider-text2">1600 ELO Chess Player</div>
+                <div class="slider-text3">Stanford/MIT Hopeful</div>
+                <div class="slider-text4">Math Proficient</div>
               </div>
             </div>
 
